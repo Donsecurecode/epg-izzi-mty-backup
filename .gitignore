@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Salida generada (se publica en la rama "epg" desde el workflow, no en main)
+izzimty.xml
+izzimty.xml.gz
+_test*/
+
+# Claude Code
+.claude/

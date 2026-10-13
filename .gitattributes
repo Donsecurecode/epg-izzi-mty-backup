@@ -1,0 +1,4 @@
+# Forzar LF: el workflow corre en Linux y un CRLF rompe el script de bash.
+* text=auto eol=lf
+*.yml text eol=lf
+*.py  text eol=lf
